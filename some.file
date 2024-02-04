@@ -1,18 +1,10 @@
-"Hello git" 
+new line
+"fffff" 
+"line from git" 
 "Git is awesome" 
 .
-<<<<<<< HEAD
 "Third line" 
 "something" 
-=======
->>>>>>> 077e9fd4d868061ceaf4dce0b4c4066c46e46dac
-"patch" 
-diff --git a/some.file b/some.file
-index 130aa53..4517b0f 100644
---- a/some.file
-+++ b/some.file
-@@ -6,3 +6,4 @@
- "something" 
- =======
- >>>>>>> 077e9fd4d868061ceaf4dce0b4c4066c46e46dac
-+"patch" 
+ 
+who is it&
+"third line" 
